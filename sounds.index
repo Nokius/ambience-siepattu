@@ -1,0 +1,6 @@
+{
+    "translationCatalog" : "ambience-siepattu",
+    "files" : [
+        { "displayName" : "siepattu-ringtone"          , "fileName" : "siepattu_Ringtone.wav" },
+    ]
+}

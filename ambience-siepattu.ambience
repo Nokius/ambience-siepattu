@@ -1,0 +1,18 @@
+{
+    "translationCatalog"        : "ambience-siepattu",
+    "displayName"               : "Siepattu",
+    "ringerToneFile"            : { "file": "siepattu_Ringtone.wav", "enabled": 1 },
+    "messageToneFile"           : { "file": "",  "enabled": 1 },
+    "mailToneFile"              : { "file": "",  "enabled": 1 },
+    "internetCallToneFile"      : { "file": "",  "enabled": 1 },
+    "chatToneFile"              : { "file": "",  "enabled": 1 },
+    "calendarToneFile"          : { "file": "",  "enabled": 1 },
+    "clockAlarmToneFile"        : { "file": "",  "enabled": 1 },
+    "wallpaper"                 : "ambience-siepattu.jpg",
+    "highlightColor"            : "#e2a44e",
+    "secondaryHighlightColor"   : "#424242",
+    "primaryColor"              : "#FFFFFF",
+    "secondaryColor"            : "#FFFFFF99",
+    "ringerVolume"              : 60,
+    "favorite"			: true
+}
